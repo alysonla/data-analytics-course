@@ -8,7 +8,7 @@ To provide an overview of data analytics, introduce different roles within the d
 
 ---
 
-[x] 1. Welcome and Introduction (60 minutes)
+ 1. Welcome and Introduction (60 minutes)
 
 <a href="https://docs.google.com/presentation/d/1CauUd8HEzGUD_bZ-PEpwGIISzKvPK_qSCJn7QJPcRHA/edit?usp=sharing">
   <img src="https://github.com/user-attachments/assets/6c7c4e6a-c8f0-4dd5-aa9b-8509b6054223" alt="Data Analytics Week 1 1 - Welcome" width="600"/>
@@ -16,18 +16,18 @@ To provide an overview of data analytics, introduce different roles within the d
 
 _click on the image above to access slides for this module_
 
-- [ ] **Welcome Remarks:**
+- [x] **Welcome Remarks:**
   - Brief introduction to the course and its goals.
   - Acknowledge the unique position of moms returning to work or changing careers and the value of upskilling in data analytics.
   - Setting yourself up for success - Tech Moms Co-founders 
   
 
-- [ ] **Icebreaker Activity:**
+- [x] **Icebreaker Activity:**
   - Participants introduce themselves and share why they are interested in learning about data analytics.
 
 ---
 
-[x] 2. GitHub Orientation (30 mins)
+2. GitHub Orientation (30 mins)
 
 - [ ] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) the Tech Moms Data Analytics Course Repository 
@@ -129,3 +129,8 @@ _click on the image above to access slides for this module_
   - Address any questions or concerns from participants.
   
 - [ ] **Closing Remarks:**
+
+
+## Features
+- ✔️ Feature 1
+- ✔️ Feature 2
