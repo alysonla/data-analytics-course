@@ -8,7 +8,7 @@ To provide an overview of data analytics, introduce different roles within the d
 
 ---
 
-## 1. Welcome and Introduction (60 minutes)
+[x] 1. Welcome and Introduction (60 minutes)
 
 <a href="https://docs.google.com/presentation/d/1CauUd8HEzGUD_bZ-PEpwGIISzKvPK_qSCJn7QJPcRHA/edit?usp=sharing">
   <img src="https://github.com/user-attachments/assets/6c7c4e6a-c8f0-4dd5-aa9b-8509b6054223" alt="Data Analytics Week 1 1 - Welcome" width="600"/>
@@ -27,7 +27,7 @@ _click on the image above to access slides for this module_
 
 ---
 
-## 2. GitHub Orientation (30 mins)
+[x] 2. GitHub Orientation (30 mins)
 
 - [ ] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) the Tech Moms Data Analytics Course Repository 
