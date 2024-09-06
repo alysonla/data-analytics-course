@@ -57,8 +57,8 @@ Create a new tab titled “Functions”. Paste the questions above and answer th
 
 Functions work great for specific calculations while pivot tables are best for summarizing larger data sets.
 
-- [ ] Create a new tab “Pivot Tables”
-- [ ] Start asking additional questions of the data by creating pivot tables.
+- [x] Create a new tab “Pivot Tables”
+- [x] Start asking additional questions of the data by creating pivot tables.
 
 **For example:**
 - What is the employment status of applicants that were assigned a cohort?
