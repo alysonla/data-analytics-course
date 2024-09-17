@@ -74,6 +74,5 @@ _Est. Time to Complete: 2 hours_
 
 ## Assignment #2:  
 
-Using Deep Note & SQL to query Tech Moms applicant data & write a one page written report with sharing visualizations, insights, and recommendations.
+Using Hex & SQL to query Tech Moms applicant data & write a one page written report with sharing visualizations, insights, and recommendations.
 
-- [ ] [Complete Assignment 2](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/assignment_2.md)
