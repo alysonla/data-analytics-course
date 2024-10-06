@@ -7,6 +7,12 @@ Using our class format  - find a series of video lessons and watch and complete 
 - [ ] Curate the videos you watched for your topic of choice and add here under "Video Lessons".
 - [ ] Ideas for videos could be Alex the Analyst videos on advanced excel topics, intermidiate SQL, or intro to Python from his [Data Analytics Bootcamp](https://www.youtube.com/watch?v=PSNXoAs2FtQ) series.
 
+---
+
+<img width="507" alt="Screenshot 2024-10-05 at 4 58 33 PM" src="https://github.com/user-attachments/assets/00a98741-61d7-43d6-80e3-3f14511bda8a">
+
+- [ ] [Start a Data YouTube Channel](https://www.youtube.com/results?search_query=how+to+start+a+data+youtube+channel+)
+
 # Assignment: 
 
 - [ ] Choose a data set that interest you to analyze, using the skills you learned in the video lessons.
